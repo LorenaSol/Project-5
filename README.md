@@ -1,4 +1,3 @@
-# Project 5
 # About Lorena
  * Name: Lorena Soldevilla
  * Grade: 12
